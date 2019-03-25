@@ -1,3 +1,3 @@
-Problem statement:
-Problem setting:
-Program features:
+Problem statement:\n
+Problem setting:\n
+Program features:\n
