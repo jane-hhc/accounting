@@ -1,6 +1,5 @@
 # Accounting system
 
-One Paragraph of project description goes here
 
 ## Problem statement
 
