@@ -16,4 +16,4 @@ It is a single user system. The user would input the records of expenses and inc
 - To filter and display the records
 - To provide statistical information of the financial status
 - To notify the user when the user-defined budget is reached
-- To allow user to set saving targets and monitor the progress
+- To allow user to set saving target and monitor the progress
