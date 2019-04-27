@@ -19,6 +19,4 @@ It is a single user system. The user would input the details of each record of e
 
 ## Input/output specifications
 
-## Compilation
-
-## Execution
+Follow all the instructions given. Most of the time, the program requets typing in a number or a letter (Y/N) only.
