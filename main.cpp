@@ -59,7 +59,7 @@ void data_entry(entry records[]){
     cin>>records[counter].amount;
     if(records[counter].type == "Expense")
         global_total_expense += records[counter].amount;
-    if (global_total_expense > budget)
+    if (global_total_expense > budget && budget !=0)
         cout << "You are over budget!!!\n";
     cout<<"-----------------------------"<<endl;
     if (records[counter].type == "Expense"){
@@ -180,7 +180,7 @@ void data_edit(entry records[]){
     cin>>records[counter].amount;
     if(records[counter].type == "Expense")
         global_total_expense += records[counter].amount;
-    if (global_total_expense > budget)
+    if (global_total_expense > budget && budget!=0)
         cout << "You are over budget!!!\n";
     cout<<"-----------------------------"<<endl;
     if (records[counter].type == "Expense"){
