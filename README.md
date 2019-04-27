@@ -7,7 +7,7 @@ In our everyday lives, there are many expenses, such as entertainment, transport
 
 ## Problem setting
 
-It is a single user system. The user would input the details of each record of expenses and income into the system. The system manages the expenses as well as income of the user. It analyses the data and provides useful financial information on user's request. 
+It is a single user system. The user would input the details of each record of expenses and income into the system. The system manages the expenses as well as income of the user. It analyses the data and provides useful financial information on user's request. It is assumed that the maximum of transaction allowed is 20.
 
 ## Program features
 - To record the expenses and income
